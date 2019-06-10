@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/drone-photo.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2019/06/10/未命名作品(1)(1).png"
+  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
