@@ -29,7 +29,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/drone-photo.jpeg"
-    alt_text: Product Shot
+    alt_text: 示例图
   background_image: "/uploads/2018/06/21/drone-photo.jpeg"
 - template: content-feature
   block: feature-1
